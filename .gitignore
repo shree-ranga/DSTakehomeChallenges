@@ -1,8 +1,10 @@
+.ipynb_checkpoints
 
 TakeHomeDataChallenges-master
 Collection_Data_Science_TakeHome_Challenges.pdf
 
 FunnelAnalysis/None
+FunnelAnalysis/.ipynb_checkpoints
 FunnelAnalysis/tree.dot
 
 IdentifyingFraudAnalysis/Fraud_Data.csv
@@ -13,3 +15,6 @@ SongChallenge/song.json
 SpanishTranslation/user_table.csv
 SpanishTranslation/test_table.csv
 
+PricingTest/test_results.csv
+PricingTest/user_table.csv
+PricingTest/tree.dot
