@@ -19,3 +19,8 @@ SpanishTranslation/test_table.csv
 PricingTest/test_results.csv
 PricingTest/user_table.csv
 PricingTest/tree.dot
+
+MarketingEmailCampaign/email_table.csv
+MarketingEmailCampaign/email_opened_table.csv
+MarketingEmailCampaign/link_clicked_table.csv
+MarketingEmailCampaign/clean_email.csv
