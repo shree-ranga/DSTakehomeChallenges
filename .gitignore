@@ -8,8 +8,8 @@ FunnelAnalysis/None
 FunnelAnalysis/.ipynb_checkpoints
 FunnelAnalysis/tree.dot
 
-IdentifyingFraudAnalysis/Fraud_Data.csv
-IdentifyingFraudAnalysis/IpAddress_to_Country.csv
+IdentifyingFraudulentAnalysis/Fraud_Data.csv
+IdentifyingFraudulentAnalysis/IpAddress_to_Country.csv
 
 SongChallenge/song.json
 
@@ -24,3 +24,6 @@ MarketingEmailCampaign/email_table.csv
 MarketingEmailCampaign/email_opened_table.csv
 MarketingEmailCampaign/link_clicked_table.csv
 MarketingEmailCampaign/clean_email.csv
+
+CreditCard/cc_info.csv
+CreditCard/transactions.csv
