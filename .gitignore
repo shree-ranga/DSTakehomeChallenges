@@ -27,3 +27,5 @@ MarketingEmailCampaign/clean_email.csv
 
 CreditCard/cc_info.csv
 CreditCard/transactions.csv
+
+ConversionRate/conversion_data.csv
